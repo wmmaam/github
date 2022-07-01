@@ -145,8 +145,8 @@ git push -u origin master
 
 用户  | 项目名    | Language | Star | Url
 -----|---------- |----------|------|----
-twbs | Bootstrap | CSS      | 78490 | [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
-vhf |free-programming books | - | 37240 | [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)
+twbs | Bootstrap | CSS      | 78,490 | [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
+vhf |free-programming books | - | 37,240 | [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 angular | angular.js | JavaScript | 36,061 | [https://github.com/angular/angular.js](https://github.com/angular/angular.js)
 mbostock | d3 | JavaScript | 35,257 | [https://github.com/mbostock/d3](https://github.com/mbostock/d3)
 joyent | node | JavaScript | 35,077 | [https://github.com/joyent/node](https://github.com/joyent/node)
